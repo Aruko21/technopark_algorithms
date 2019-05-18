@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/module2.dir/task-1.cpp.o CMakeFiles/module2.dir/task-2.cpp.o CMakeFiles/module2.dir/sem_graph.cpp.o  -o module2 

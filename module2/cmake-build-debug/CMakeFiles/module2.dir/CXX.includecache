@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amour/study/techno/algorythms/module2/sem_graph.cpp
+vector
+-
+iostream
+-
+queue
+-
+
+/home/amour/study/techno/algorythms/module2/task-3.cpp
+iostream
+-
+cassert
+-
+vector
+-
+queue
+-
+stack
+-
+
